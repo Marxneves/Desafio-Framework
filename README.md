@@ -24,7 +24,10 @@ Se você vai clonar o repositorio pela primeira vez seguir esses passos:
 # Clone o repositorio:
 git clone https://github.com/Marxneves/Desafio-Framework.git
 
-#instale as dependências:
+# navegue até a pasta:
+cd desafio-framework
+
+# instale as dependências:
 yarn
 
 # rode o projeto:
