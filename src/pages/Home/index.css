@@ -1,0 +1,10 @@
+.home-cards {
+	display: flex;
+	gap: 16px;
+}
+
+.card-content :hover {
+	transition: all 500ms;
+	cursor: pointer;
+	background-color: whitesmoke;
+}

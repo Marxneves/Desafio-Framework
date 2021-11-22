@@ -1,0 +1,23 @@
+header {
+	height: 60px;
+	/* background-color: rgba(52, 52, 209, 0.836); */
+	background-color: #090b20;
+	display: flex;
+	justify-content: center;
+}
+nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 40px;
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+}
+
+nav a:hover {
+	transition: all 600ms;
+	color: rgb(179, 179, 179);
+}
