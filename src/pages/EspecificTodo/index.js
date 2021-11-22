@@ -24,7 +24,7 @@ function Todos() {
       {
         loaded &&
         <>
-          <h1>Todo</h1>
+          <h1>To-Do</h1>
           <CardEspecific item={ todo } type='todo' />
         </>
       }

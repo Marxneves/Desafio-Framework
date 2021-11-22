@@ -7,8 +7,8 @@ function Navbar() {
     <header>
       <nav>
         <Link to={ '/albums' }>Álbuns</Link>
-        <Link to={ '/posts' }>Posts</Link>
-        <Link to={ '/todos' }>Todos</Link>
+        <Link to={ '/posts' }>Postagens</Link>
+        <Link to={ '/todos' }>To-Dos</Link>
       </nav>
     </header>
   )

@@ -26,7 +26,7 @@ function Todos() {
       {
         loaded &&
         <>
-          <h1>Todos</h1>
+          <h1>To-Dos</h1>
           <CardComponent itens={ showTodos } path={ 'todo' } todo />
           <Pagination setShowItens={ setShowTodos } totalItens={ allTodos } />
         </>

@@ -12,8 +12,8 @@ import './index.css'
 
 const itens = [
   { title: 'Álbuns', icon: <FiImage size='100px' />, path: 'albums' },
-  { title: 'Posts', icon: <FiFileText size='100px' />, path: 'posts' },
-  { title: 'Todos', icon: <FiList size='100px' />, path: 'todos' },
+  { title: 'Postagens', icon: <FiFileText size='100px' />, path: 'posts' },
+  { title: 'To-Dos', icon: <FiList size='100px' />, path: 'todos' },
 ]
 
 const useStyles = makeStyles({

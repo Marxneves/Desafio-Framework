@@ -27,7 +27,7 @@ function Posts() {
       {
         loaded &&
         <>
-          <h1>Posts</h1>
+          <h1>Postagens</h1>
           <CardComponent itens={ showPosts } path={ 'post' } post />
           <Pagination setShowItens={ setShowPosts } totalItens={ allPosts } />
         </>

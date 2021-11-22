@@ -24,7 +24,7 @@ function Posts() {
       {
         loaded &&
         <>
-          <h1>Post</h1>
+          <h1>Postagem</h1>
           <CardEspecific item={ post } type='post' />
         </>
       }
